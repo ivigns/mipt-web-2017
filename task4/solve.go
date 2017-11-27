@@ -1,6 +1,5 @@
 package main
 
-import "fmt"
 import "unicode"
 
 func RemoveEven(a []int) (result []int) {
